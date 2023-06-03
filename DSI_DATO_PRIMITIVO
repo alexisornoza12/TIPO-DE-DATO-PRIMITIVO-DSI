@@ -1,0 +1,13 @@
+# Operación combinada utilizando un tipo de dato entero en Python
+
+# Definición de la variable
+numero = 7  # Tipo de dato primitivo: entero
+
+# Realizar la operación combinada
+numero *= 3  # Multiplicar el valor actual de 'numero' por 3
+numero -= 10  # Restar 10 al valor actual de 'numero'
+numero //= 2  # Dividir el valor actual de 'numero' entre 2 utilizando división entera
+numero += 5  # Sumar 5 al valor actual de 'numero'
+
+# Imprimir el resultado
+print(numero)
